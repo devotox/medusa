@@ -1,5 +1,16 @@
 # @medusajs/product
 
+## 0.2.0
+
+### Minor Changes
+
+- [#4825](https://github.com/medusajs/medusa/pull/4825) [`c53fa6cd3`](https://github.com/medusajs/medusa/commit/c53fa6cd3be8b1af5625fc2db7871f9f69e761ad) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fix mikro-orm connection loader
+
+### Patch Changes
+
+- Updated dependencies [[`c53fa6cd3`](https://github.com/medusajs/medusa/commit/c53fa6cd3be8b1af5625fc2db7871f9f69e761ad)]:
+  - @medusajs/utils@1.10.0
+
 ## 0.1.6
 
 ### Patch Changes

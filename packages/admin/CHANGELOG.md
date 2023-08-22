@@ -1,5 +1,12 @@
 # @medusajs/admin
 
+## 7.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`edf9ed4e5`](https://github.com/medusajs/medusa/commit/edf9ed4e593063622aa39cdbebef4810bf2a5fb1)]:
+  - @medusajs/medusa@1.14.1
+
 ## 7.0.0
 
 ### Major Changes

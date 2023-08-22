@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.14.1
+
+### Patch Changes
+
+- [#4771](https://github.com/medusajs/medusa/pull/4771) [`edf9ed4e5`](https://github.com/medusajs/medusa/commit/edf9ed4e593063622aa39cdbebef4810bf2a5fb1) Thanks [@fPolic](https://github.com/fPolic)! - fix(medusa-interfaces, medusa-file-\*): add `ìsPrivate` flag to the streaming methods, fix minio default bucket
+
+- Updated dependencies [[`c53fa6cd3`](https://github.com/medusajs/medusa/commit/c53fa6cd3be8b1af5625fc2db7871f9f69e761ad)]:
+  - @medusajs/utils@1.10.0
+
 ## 1.14.0
 
 ### Minor Changes
